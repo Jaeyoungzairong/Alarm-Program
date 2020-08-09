@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AlarmData>
+  <Alarm0>
+    <No>0</No>
+    <AlarmOn>False</AlarmOn>
+    <Hour>00</Hour>
+    <Minute>08</Minute>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\Butterfly.mp3</MusicPath>
+    <AlarmDuration>3</AlarmDuration>
+  </Alarm0>
+  <Alarm1>
+    <No>1</No>
+    <AlarmOn>True</AlarmOn>
+    <Hour>22</Hour>
+    <Minute>51</Minute>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\On Your Collarbone.mp3</MusicPath>
+    <AlarmDuration>3</AlarmDuration>
+  </Alarm1>
+  <Alarm2>
+    <No>2</No>
+    <AlarmOn>True</AlarmOn>
+    <Hour>00</Hour>
+    <Minute>09</Minute>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\Offbeat.mp3</MusicPath>
+    <AlarmDuration>2</AlarmDuration>
+  </Alarm2>
+  <Alarm3>
+    <No>3</No>
+    <AlarmOn>True</AlarmOn>
+    <Hour>22</Hour>
+    <Minute>49</Minute>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\24 hours.mp3</MusicPath>
+    <AlarmDuration>1</AlarmDuration>
+  </Alarm3>
+  <Alarm4>
+    <No>4</No>
+    <AlarmOn>True</AlarmOn>
+    <Hour>19</Hour>
+    <Minute>39</Minute>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\24 hours.mp3</MusicPath>
+    <AlarmDuration>1</AlarmDuration>
+  </Alarm4>
+</AlarmData>

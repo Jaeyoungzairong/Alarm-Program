@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MusicData>
+  <Music0>
+    <No>0</No>
+    <MusicName>24 hours</MusicName>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\24 hours.mp3</MusicPath>
+  </Music0>
+  <Music1>
+    <No>1</No>
+    <MusicName>Butterfly</MusicName>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\Butterfly.mp3</MusicPath>
+  </Music1>
+  <Music2>
+    <No>2</No>
+    <MusicName>Kalimba</MusicName>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\Kalimba.mp3</MusicPath>
+  </Music2>
+  <Music3>
+    <No>3</No>
+    <MusicName>Maid with the Flaxen Hair</MusicName>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\Maid with the Flaxen Hair.mp3</MusicPath>
+  </Music3>
+  <Music4>
+    <No>4</No>
+    <MusicName>Offbeat</MusicName>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\Offbeat.mp3</MusicPath>
+  </Music4>
+  <Music5>
+    <No>5</No>
+    <MusicName>On Your Collarbone</MusicName>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\On Your Collarbone.mp3</MusicPath>
+  </Music5>
+  <Music6>
+    <No>6</No>
+    <MusicName>Sleep Away</MusicName>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\Sleep Away.mp3</MusicPath>
+  </Music6>
+  <Music7>
+    <No>7</No>
+    <MusicName>겨울로 가기 위해 사는 밤</MusicName>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\겨울로 가기 위해 사는 밤.mp3</MusicPath>
+  </Music7>
+  <Music8>
+    <No>8</No>
+    <MusicName>사랑의 한가운데</MusicName>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\사랑의 한가운데.mp3</MusicPath>
+  </Music8>
+  <Music9>
+    <No>9</No>
+    <MusicName>순간</MusicName>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\순간.mp3</MusicPath>
+  </Music9>
+  <Music10>
+    <No>10</No>
+    <MusicName>오늘 같은 날엔</MusicName>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\오늘 같은 날엔.mp3</MusicPath>
+  </Music10>
+  <Music11>
+    <No>11</No>
+    <MusicName>하메들</MusicName>
+    <MusicPath>C:\Users\User\Desktop\Code\AlarmProgram_4.0ver\AlarmProgram\bin\Debug\Music\하메들.mp3</MusicPath>
+  </Music11>
+</MusicData>
