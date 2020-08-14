@@ -7,3 +7,4 @@
 
 #### 2. UI 구성
 ![1](https://user-images.githubusercontent.com/69396761/90214363-d0206c80-de2a-11ea-995f-c7ac4c8e166d.PNG) <hr/>
+![2](https://user-images.githubusercontent.com/69396761/90214510-4ae98780-de2b-11ea-8e09-d05311643166.PNG)
