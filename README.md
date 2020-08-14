@@ -6,5 +6,4 @@
 ##### ● 자신이 원하는 음악을 업로드하여 사용가능 <hr/>
 
 #### 2. UI 구성
-![1](https://user-images.githubusercontent.com/69396761/90211198-a6fbde00-de22-11ea-903a-1ecf14803c65.PNG) <hr/>
-![2](https://user-images.githubusercontent.com/69396761/90211200-a82d0b00-de22-11ea-9cb0-ab4867d34c23.PNG)
+![1](https://user-images.githubusercontent.com/69396761/90214363-d0206c80-de2a-11ea-995f-c7ac4c8e166d.PNG) <hr/>
