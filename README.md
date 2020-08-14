@@ -1,21 +1,10 @@
-## 알람 프로그램
+### Serial 및 TCP 통신 TEST 프로그램 <hr/>
 
-### 술 마시고 핸드폰을 잃어버려 급하게 만든 알람 프로그램을 Update시킨 버전
-### 음악 재생은 nAudio.dll 사용
+#### 1. 주요기능
+##### ● 여러개의 알람 데이터를 저장하고 수정 가능
+##### ● 알람 ON/OFF, 알람음악, 알람지속시간 설정 가능
+##### ● 자신이 원하는 음악을 업로드하여 사용가능 <hr/>
 
-#### 1. UI구성
-##### ● Main Form
-![SerialMain](https://user-images.githubusercontent.com/69396761/89728898-473cb600-da63-11ea-87e5-34ea9f286fc7.PNG)
-
-##### ● Setting Form
-![SerialSetting](https://user-images.githubusercontent.com/69396761/89728899-499f1000-da63-11ea-9752-602bfd467d8c.PNG)
-
-#### 2. 주요특징
-##### ● 자신이 원하는 음악을 Upload 할 수 있는 것이 특징
-###### Setting Form
-![SerialFeature1](https://user-images.githubusercontent.com/69396761/89728900-4c9a0080-da63-11ea-8b1f-c1067e96a609.PNG)
-
-# ↓
-                  
-###### Main Form
-![SerialFeature2](https://user-images.githubusercontent.com/69396761/89728901-4dcb2d80-da63-11ea-894c-61dc9a7dfc12.PNG)
+#### 2. UI 구성
+![1](https://user-images.githubusercontent.com/69396761/90211198-a6fbde00-de22-11ea-903a-1ecf14803c65.PNG) <hr/>
+![2](https://user-images.githubusercontent.com/69396761/90211200-a82d0b00-de22-11ea-9cb0-ab4867d34c23.PNG)
